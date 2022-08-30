@@ -21,8 +21,8 @@ can concentrate on project work (to be announced).
 
 ### Labs: 
 
-* Monday   15:00 - 17:00 (øv - 4-0-32, Ole Maaløes Vej 5, Biocenter)
-* Thursday 15:00 - 17:00 (øv - NBB 01.1.H.142, Jagtvej 155)
+* Monday    15:00 - 17:00 (øv - 4-0-32, Ole Maaløes Vej 5, Biocenter)
+* Wednesday 15:00 - 17:00 (øv - NBB 01.1.H.142, Jagtvej 155)
 
 
 The current plan is that everybody will have a physical place
