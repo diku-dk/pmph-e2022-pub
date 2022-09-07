@@ -149,22 +149,22 @@ Hopefully, you will receive feedback a week after the handin deadline
 That is, **the re-submission deadline is two weeks after the original
 handin deadline, given that you receive the feedback in time**.
 
-### Weekly 1 (due September 16th)
+### Weekly 1 (due September 15th)
 
 * [Assignment text](weeklies/weekly-1/assignment1.asciidoc)
 * [Code handin](weeklies/weekly-1/w1-code-handin.tar.gz)
 
-### Weekly 2 (due September 29th)
+### Weekly 2 (due ...)
 
 * [Assignment text](weeklies/weekly-2/assignment2.asciidoc)
 * [Code handout](weeklies/weekly-2/wa2-code.tar.gz)
 
-### Weekly 3 (due October 11th)
+### Weekly 3 (due ...)
 
 * [Assignment text](weeklies/weekly-3/assignment3.asciidoc)
 * [Code handout](weeklies/weekly-3/wa3-code.tar.gz)
 
-### Weekly 4 (due October 19th)
+### Weekly 4 (due ...)
 
 * [Assignment text](weeklies/weekly-4/Assignment4.pdf)
 
