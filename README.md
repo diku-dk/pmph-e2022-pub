@@ -154,10 +154,10 @@ handin deadline, given that you receive the feedback in time**.
 * [Assignment text](weeklies/weekly-1/assignment1.asciidoc)
 * [Code handin](weeklies/weekly-1/w1-code-handin.tar.gz)
 
-### Weekly 2 (due ...)
+### Weekly 2 (due September 28th)
 
 * [Assignment text](weeklies/weekly-2/assignment2.asciidoc)
-* [Code handout](weeklies/weekly-2/wa2-code.tar.gz)
+* [Code handout](weeklies/weekly-2/w2-code-handin.tar.gz)
 
 ### Weekly 3 (due ...)
 
