@@ -213,7 +213,7 @@ export CPLUS_INCLUDE_PATH=$CUDA_DIR/include:$CPLUS_INCLUDE_PATH
 export C_INCLUDE_PATH=$CUDA_DIR/include:$C_INCLUDE_PATH
 ```
 
-*New accounts have also been created on sever futharkhpa03fl.unicph.domain, which contains two top-of-the-line A100 Nvidia GPUs.* You may ssh directly to `futharkhpa03fl.unicph.domain` with your ku-id and corresponding password, and then similarly add the above to your `.bashrc` file. More hardware documentation is available here (https://github.com/diku-dk/howto/blob/main/servers.md)
+*New accounts have also been created on sever futharkhpa03fl.unicph.domain, which contains two top-of-the-line A100 Nvidia GPUs.* You may ssh directly to `futharkhpa03fl.unicph.domain` with your ku-id and corresponding password, and then similarly add the above to your `.bashrc` file. More hardware documentation is available [here](https://github.com/diku-dk/howto/blob/main/servers.md)
 
 ## Other resources
 
