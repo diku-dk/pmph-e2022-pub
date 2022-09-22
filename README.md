@@ -5,7 +5,7 @@
 
 # Programming Massively Parallel Hardware (PMPH), Block 1 2022
 
-## We are grateful to Nvidia for awarding us a teaching grant (for PMPH and DPP) that consists of two A100 GPUs. These are now accessible on the server futharkhpa03fl.unicph.domain
+### We are grateful to Nvidia for awarding us a teaching grant (for the PMPH and DPP courses) that consists of two A100 GPUs. These are now accessible on the server futharkhpa03fl.unicph.domain
 
 ## Course Structure
 
