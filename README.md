@@ -5,6 +5,8 @@
 
 # Programming Massively Parallel Hardware (PMPH), Block 1 2022
 
+## We are grateful to Nvidia for awarding us a teaching grant (for PMPH and DPP) that consists of two A100 GPUs. These are now accessible on the server futharkhpa03fl.unicph.domain
+
 ## Course Structure
 
 PMPH is structured to have four hours of (physical) lectures
@@ -31,7 +33,6 @@ teaching, the lectures and labs will not be recorded, so please
 plan to attend. If there is strong request, we may stream the
 lectures, but without providing any guarantees as to the quality
 of streaming.
-
 
 ### Evaluation
 
@@ -62,7 +63,7 @@ The oral examination will be hold in the exam week (Wednesday, Thursday and Frid
 
 Teacher: **[Cosmin Oancea](mailto:cosmin.oancea@diku.dk)**.
 
-Teaching assistant (TA): **[Nikolaj Hey Hinnerskov](mailto:nihi@di.ku.dk)**. 
+Teaching assistant (TA): **[Ulrik Stuhr Larsen](mailto:usl@di.ku.dk)**. 
 
 The plan is that the teacher will conduct the lectures and the lab.
 The TA will be mainly in charge of grading the weekly assignments and
@@ -183,6 +184,7 @@ Several potential choices for group project may be found in folder `group-projec
 ## GPU + MultiCore Machines
 
 All students will be provided individual accounts on a multi-core and GPGPU machine that supports multi-core programming via C++/OpenMP and CUDA programming.
+
 Login to GPU & 16 multicore machines will become operational after 6th of September:
 
 You log in by first SSHing to the bastion server
@@ -210,6 +212,8 @@ export LIBRARY_PATH=$LD_LIBRARY_PATH:$LIBRARY_PATH
 export CPLUS_INCLUDE_PATH=$CUDA_DIR/include:$CPLUS_INCLUDE_PATH
 export C_INCLUDE_PATH=$CUDA_DIR/include:$C_INCLUDE_PATH
 ```
+
+*New accounts have also been created on sever futharkhpa03fl.unicph.domain, which contains two top-of-the-line A100 Nvidia GPUs.* You may ssh directly to `futharkhpa03fl.unicph.domain` with your ku-id and corresponding password, and then similarly add the above to your `.bashrc` file. More hardware documentation is available here (https://github.com/diku-dk/howto/blob/main/servers.md)
 
 ## Other resources
 
