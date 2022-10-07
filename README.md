@@ -165,7 +165,7 @@ handin deadline, given that you receive the feedback in time**.
 * [Assignment text](weeklies/weekly-3/assignment3.asciidoc)
 * [Code handout](weeklies/weekly-3/w3-code-handin.tar.gz)
 
-### Weekly 4 (due ...)
+### Weekly 4 (due October 14th)
 
 * [Assignment text](weeklies/weekly-4/Assignment4.pdf)
 
