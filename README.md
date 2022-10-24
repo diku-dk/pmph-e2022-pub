@@ -125,13 +125,13 @@ the lab sessions.
 | 17/10 | 15:00-17:00 | Autumn break (no lab) | |
 | 19/10 | 13:00-15:00 | Autumn break (no lecture) | |
 | 19/10 | 15:00-17:00 | Autumn break (no lab) |
-| 24/10 | 13:00-15:00 | No lecture |  |
+| 24/10 | 13:00-15:00 | No lecture, i.e., Lab instead of lecture | helping with weeklies, group project |
 | 24/10 | 15:00-17:00 | Lab: Helping with group-project, weekly assignments | |
 | 26/10 | 13:00-15:00 | [Modern CPU Design: Tomasulo Algorithm (HWD)](slides/L9-OoOproc.pdf)| Chapter 3 of "Parallel Computer Organization and Design" Book |
 | 26/10 | 15:00-17:00 | Lab: help with group project, weeklies |
 | 31/10 | 13:00-15:00 | Invited Talk: Prof. Pedro Trancoso (Chalmers University) | either in this slot or we switch with the slot from 15:00-17:00; to be updated later |
-| 31/10 | 15:00-17:00 | Lab: Helping with group project, weeklies | |
-| 02/11 | 13:00-15:00 | No Lecture unless you ask for one | |
+| 31/10 | 15:00-17:00 | There is no lab here | |
+| 02/11 | 13:00-15:00 | Lab instead of lecture | helping with weeklies and group project |
 | 02/11 | 15:00-17:00 | Lab: help with group project |
 | 09/11 | whole day | Oral exam | one three-person group will be examined in about 1 hour, but all of you will take two full days.|
 | 10/11 | whole day | Oral exam | |
