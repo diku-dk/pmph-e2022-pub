@@ -1,5 +1,5 @@
 //#include "../../cub-1.8.0/cub/cub.cuh"   // or equivalently <cub/device/device_histogram.cuh>
-#include "cub.cuh"
+#include "cub/cub.cuh"
 #include "helper.cu.h"
 
 template<class Z>
